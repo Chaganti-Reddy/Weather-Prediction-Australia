@@ -51,7 +51,7 @@ This dataset is a collected from [Kaggle](kaggle.com) repository named [Rain In 
 
 <br/>
 
-## 🔥 Trainign Model
+## 🔥 Training Model
 
 To Train the model, used `Logistic Regression` which is a type of `Machine Learning` Algorithm
 
